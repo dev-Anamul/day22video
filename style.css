@@ -27,7 +27,7 @@ img {
 
 /* Silder image */
 .silder-section {
-  background-image: url(./img/mbr-10.jpg);
+  background-image: url(img/mbr-10.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
